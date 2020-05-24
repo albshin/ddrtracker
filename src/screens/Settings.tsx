@@ -2,7 +2,7 @@ import React from 'react';
 import { Text } from 'react-native';
 import { DrawerNavigationProp } from '@react-navigation/drawer';
 import styled from '@emotion/native';
-import { RootDrawerParamList } from '../App';
+import { RootDrawerParamList } from '../../App';
 
 const Container = styled.View`
   flex: 1;
